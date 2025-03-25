@@ -1,6 +1,6 @@
 import React from 'react'
 import Routing from './routing/Routing'
-import "./src/App.css"
+import "./App.css"
 
 export default function App() {
   return (
